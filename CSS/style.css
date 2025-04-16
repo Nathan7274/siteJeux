@@ -1,0 +1,101 @@
+h1 {
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: rgb(61, 59, 59);
+}
+
+body {
+    margin: 0;
+}
+
+header div {
+    background-color: grey;
+}
+
+li {
+    list-style-type: none;
+    padding: 20px;
+}
+
+li a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.jeux {
+    width: 280px;
+    text-align: justify;
+    background-color: white;
+    box-shadow:  0 0 1em rgb(71, 70, 70);
+}
+
+.jeux h3,p {
+    padding: 20px;
+    margin: 0;
+}
+
+h3 {
+    text-decoration: underline;
+    padding: px;
+    text-align: center;
+    margin: 0;
+}
+
+.jeux img {
+    width: 280px;
+}
+
+.jeux-tout {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+th {
+    background-color:  rgb(61, 59, 59);
+    color: white;
+    padding: 10px;
+}
+
+table {
+    width: 90%;
+    margin: 0 auto;
+}
+
+td {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(61, 59, 59);
+    color: white;
+    padding: 0;
+    margin-top: 10px;
+}
+
+footer p {
+    padding: 10px;
+}
